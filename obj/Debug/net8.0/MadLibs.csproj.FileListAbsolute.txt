@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\bin\Debug\net8.0\MadLibs.exe
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\bin\Debug\net8.0\MadLibs.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\bin\Debug\net8.0\MadLibs.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\bin\Debug\net8.0\MadLibs.dll
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\bin\Debug\net8.0\MadLibs.pdb
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\MadLibs.dll
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\refint\MadLibs.dll
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\MadLibs.pdb
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\MadLibs.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\MadLibs\obj\Debug\net8.0\ref\MadLibs.dll
